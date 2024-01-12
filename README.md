@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/accountWeb" rel="nofollow">https://github.com/seonghuncode/accountWeb</a>
 <br>
 
-
 &nbsp;&nbsp;[팀 프로젝트]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; <span>- 로봇 청정기 개발</span><br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2022.06.∼2022.11. <br>
@@ -54,28 +53,24 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/schoolCapstone1" rel="nofollow">https://github.com/seonghuncode/schoolCapstone1</a>
 <br>
 
-
 &nbsp;&nbsp;&nbsp;&nbsp; <span>- 동아리 관리 웹 개발</span><br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2023.05.∼2023.07. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 배재대학교 컴퓨터공학과 <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/Capstone2-vesion.02-" rel="nofollow">https://github.com/seonghuncode/Capstone2-vesion.02-</a>
 <br>
 
-
 &nbsp;&nbsp;&nbsp;&nbsp; <span>- 쇼핑몰 웹 개발</span><br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2023.06.∼2023.07. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 배재대학교 컴퓨터공학과 <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/dotdotot/Shoping_Web" rel="nofollow">https://github.com/dotdotot/Shoping_Web</a>
-
-
 <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp; <span>- 파이썬을 사용한 인공지능 교육 및 실습</span><br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2022.06.∼2022.07. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 배재대학교 컴퓨터공학과 <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/python_school_Deeprunning" rel="nofollow">https://github.com/seonghuncode/python_school_Deeprunning</a>
-
-
 <br>
+
 &nbsp;&nbsp;&nbsp;&nbsp; <span>- 임베디드 SW 개발</span><br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2023.03 – 2023.05. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 배재대학교 <br> 
