@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **seonghuncode/seonghuncode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,90 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<article class="markdown-body entry-content container-lg f5" itemprop="text"><h2 dir="auto"><a id="user-content-임수현" class="anchor" aria-hidden="true" tabindex="-1" href="#임수현"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>유성훈</h2>
+  
+<h4 dir="auto"><a id="user-content-mobile-app-developer" class="anchor" aria-hidden="true" tabindex="-1" href="#mobile-app-developer"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>백엔드 개발자</h4>
+<blockquote>
+<p dir="auto">Spring, Jpa, Mybatis</p>
+</blockquote>
+
+<p dir="auto"><strong>1998.02.13</strong><br>
+🌟 <strong>github</strong>&nbsp;&nbsp;<a href="https://github.com/seonghuncode">https://github.com/seonghuncode</a><br>  
+🌟 <strong>email</strong>&nbsp;&nbsp;&nbsp;<a href="mailto:k1miso012@gmail.com">gnos456@naver.com</a><br>
+🌟 <strong>blog1</strong>&nbsp;&nbsp;&nbsp;<a href="https://blog.naver.com/gnos456" rel="nofollow">https://blog.naver.com/gnos456(21~22년)</a><br>
+🌟 <strong>blog2</strong>&nbsp;&nbsp;&nbsp;<a href="https://velog.io/@gnos456/series" rel="nofollow">https://velog.io/@gnos456/series(22년~현재)</a></br>
+🌟 <strong>portfolio</strong><br>
+<pre>
+&nbsp;&nbsp;[개인 프로젝트]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; <span>- 게시판 구현 프로젝트  </span><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2022.04.∼ 2022.05. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : SBS아카데미 학원 <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/sbb2" rel="nofollow">https://github.com/seonghuncode/sbb2</a>
+<br>  
+
+&nbsp;&nbsp;&nbsp;&nbsp; <span>- 공공데이터를 활용한 아파트 거래 매매 내역 페이지 제작</span><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2022.09.∼2022.11. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : IT아카데미 <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/portfolio_react" rel="nofollow">https://github.com/seonghuncode/portfolio_react</a>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <span>- 지출관리 웹 개발</span><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2023.02.∼2023.09. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 개인프로젝트 <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/accountWeb" rel="nofollow">https://github.com/seonghuncode/accountWeb</a>
+<br>
+
+
+&nbsp;&nbsp;[팀 프로젝트]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; <span>- 로봇 청정기 개발</span><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2022.06.∼2022.11. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 배재대학교 컴퓨터공학과 <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/schoolCapstone1" rel="nofollow">https://github.com/seonghuncode/schoolCapstone1</a>
+<br>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; <span>- 동아리 관리 웹 개발</span><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2023.05.∼2023.07. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 배재대학교 컴퓨터공학과 <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/Capstone2-vesion.02-" rel="nofollow">https://github.com/seonghuncode/Capstone2-vesion.02-</a>
+<br>
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; <span>- 쇼핑몰 웹 개발</span><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2023.06.∼2023.07. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 배재대학교 컴퓨터공학과 <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/dotdotot/Shoping_Web" rel="nofollow">https://github.com/dotdotot/Shoping_Web</a>
+
+
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp; <span>- 파이썬을 사용한 인공지능 교육 및 실습</span><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2022.06.∼2022.07. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 배재대학교 컴퓨터공학과 <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/python_school_Deeprunning" rel="nofollow">https://github.com/seonghuncode/python_school_Deeprunning</a>
+
+
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp; <span>- 임베디드 SW 개발</span><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2023.03 – 2023.05. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 배재대학교 <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://velog.io/@gnos456/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-SW%EA%B0%9C%EB%B0%9C" rel="nofollow">https://velog.io/@gnos456/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-SW%EA%B0%9C%EB%B0%9C</a>
+<br>
+</pre>
+
+<br>
+
+
+</article>
+
+
+
+
+
+
+
+
+
+
+
+
