@@ -47,10 +47,22 @@ Here are some ideas to get you started:
 <br>
 
 &nbsp;&nbsp;[팀 프로젝트]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; <span>- 차량 외관 자동 판별 프로그램</span><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2022.06.∼2022.07. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 배재대학교 컴퓨터공학과 <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/python_school_Deeprunning" rel="nofollow">https://github.com/seonghuncode/python_school_Deeprunning</a>
+<br>
+
 &nbsp;&nbsp;&nbsp;&nbsp; <span>- 로봇 청정기 개발</span><br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2022.06.∼2022.11. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 배재대학교 컴퓨터공학과 <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/schoolCapstone1" rel="nofollow">https://github.com/seonghuncode/schoolCapstone1</a>
+<br>
+
+&nbsp;&nbsp;&nbsp;&nbsp; <span>- 임베디드 SW 개발</span><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2023.03 – 2023.05. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 배재대학교 <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://velog.io/@gnos456/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-SW%EA%B0%9C%EB%B0%9C" rel="nofollow">https://velog.io/@gnos456/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-SW%EA%B0%9C%EB%B0%9C</a>
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <span>- 동아리 관리 웹 개발</span><br> 
@@ -65,17 +77,6 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/dotdotot/Shoping_Web" rel="nofollow">https://github.com/dotdotot/Shoping_Web</a>
 <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp; <span>- 파이썬을 사용한 인공지능 교육 및 실습</span><br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2022.06.∼2022.07. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 배재대학교 컴퓨터공학과 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/python_school_Deeprunning" rel="nofollow">https://github.com/seonghuncode/python_school_Deeprunning</a>
-<br>
-
-&nbsp;&nbsp;&nbsp;&nbsp; <span>- 임베디드 SW 개발</span><br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2023.03 – 2023.05. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 배재대학교 <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://velog.io/@gnos456/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-SW%EA%B0%9C%EB%B0%9C" rel="nofollow">https://velog.io/@gnos456/%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C-SW%EA%B0%9C%EB%B0%9C</a>
-<br>
 </pre>
 
 <br>
