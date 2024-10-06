@@ -77,6 +77,13 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/dotdotot/Shoping_Web" rel="nofollow">https://github.com/dotdotot/Shoping_Web</a>
 <br>
 
+&nbsp;&nbsp;[오픈소스 활용]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; <span>- 여행 일정 공유  </span><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2024.09.∼ 2024.10. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 모두의 연구소(대전) <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/mobile-invitation" rel="nofollow">https://github.com/seonghuncode/mobile-invitation</a>
+<br> 
+
 </pre>
 
 <br>
