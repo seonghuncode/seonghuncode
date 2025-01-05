@@ -23,8 +23,10 @@ Here are some ideas to get you started:
 <p dir="auto"><strong>1998.02.13</strong><br>
 🌟 <strong>github</strong>&nbsp;&nbsp;<a href="https://github.com/seonghuncode">https://github.com/seonghuncode</a><br>  
 🌟 <strong>email</strong>&nbsp;&nbsp;&nbsp;<a href="mailto:k1miso012@gmail.com">gnos456@naver.com</a><br>
-🌟 <strong>blog1</strong>&nbsp;&nbsp;&nbsp;<a href="https://blog.naver.com/gnos456" rel="nofollow">https://blog.naver.com/gnos456(21~22년)</a><br>
-🌟 <strong>blog2</strong>&nbsp;&nbsp;&nbsp;<a href="https://velog.io/@gnos456/series" rel="nofollow">https://velog.io/@gnos456/series(22년~현재)</a></br>
+🌟 <strong>blog1(Naver)</strong>&nbsp;&nbsp;&nbsp;<a href="https://blog.naver.com/gnos456" rel="nofollow">https://blog.naver.com/gnos456(21~22년)</a><br>
+🌟 <strong>blog2(Velog)</strong>&nbsp;&nbsp;&nbsp;<a href="https://velog.io/@gnos456/series" rel="nofollow">https://velog.io/@gnos456/series(22년~24년)</a></br>
+🌟 <strong>blog3(Tistory)</strong>&nbsp;&nbsp;&nbsp;<a href="https://ysh2954.tistory.com/" rel="nofollow">https://ysh2954.tistory.com/(25년~현재)</a></br>
+🌟 <strong>자격증 : SQLD, 정보처리기사, SW개발_L5, 리눅스마스터2</strong>&nbsp;&nbsp;&nbsp;</br>
 🌟 <strong>portfolio</strong><br>
 <pre>
 &nbsp;&nbsp;[개인 프로젝트]<br>
