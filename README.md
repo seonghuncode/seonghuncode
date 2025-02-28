@@ -28,12 +28,39 @@ Here are some ideas to get you started:
 🌟 <strong>자격증 : SQLD, 정보처리기사, SW개발_L5, 리눅스마스터2</strong>&nbsp;&nbsp;&nbsp;</br>
 🌟 <strong>portfolio</strong><br>
 <pre>
+<!--
 &nbsp;&nbsp;[개인 프로젝트]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; <span>- 게시판 구현 프로젝트  </span><br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2022.04.∼ 2022.05. <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : SBS아카데미 학원 <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/sbb2" rel="nofollow">https://github.com/seonghuncode/sbb2</a>
 <br>  
+-->
+&nbsp;&nbsp;[팀 프로젝트]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; <span>- 초대장 서비스 프로젝트  </span><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2024.12.∼ 2025.02. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : DND동아리 <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/meetingInvitation" rel="nofollow">https://github.com/seonghuncode/meetingInvitation</a>
+<br>  
+
+&nbsp;&nbsp;[오픈소스 활용]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; <span>- 여행 일정 공유  </span><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2024.09.∼ 2024.10. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 모두의 연구소(대전) <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/mobile-invitation" rel="nofollow">https://github.com/seonghuncode/mobile-invitation</a>
+<br> 
+
+
+<hr style="border: 1px solid #666; width: 80%;">
+
+
+&nbsp;&nbsp;[개인 프로젝트]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; <span>- 게시판 구현 프로젝트  </span><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2022.04.∼ 2022.05. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : SBS아카데미 학원 <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/sbb2" rel="nofollow">https://github.com/seonghuncode/sbb2</a>
+<br>  
+
 
 &nbsp;&nbsp;&nbsp;&nbsp; <span>- 공공데이터를 활용한 아파트 거래 매매 내역 페이지 제작</span><br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2022.09.∼2022.11. <br>
@@ -77,13 +104,6 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 배재대학교 컴퓨터공학과 <br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/dotdotot/Shoping_Web" rel="nofollow">https://github.com/dotdotot/Shoping_Web</a>
 <br>
-
-&nbsp;&nbsp;[오픈소스 활용]<br>
-&nbsp;&nbsp;&nbsp;&nbsp; <span>- 여행 일정 공유  </span><br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2024.09.∼ 2024.10. <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 모두의 연구소(대전) <br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/mobile-invitation" rel="nofollow">https://github.com/seonghuncode/mobile-invitation</a>
-<br> 
 
 </pre>
 
