@@ -36,6 +36,13 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/sbb2" rel="nofollow">https://github.com/seonghuncode/sbb2</a>
 <br>  
 -->
+&nbsp;&nbsp;[프로젝트]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; <span>- AI/LLM 서비스 개발 과정  </span><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2025.05.∼ 2025.07. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 모두의연구소 <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://camp.modulabs.co.kr/llm" rel="nofollow">https://camp.modulabs.co.kr/llm</a>
+<br>  
+  
 &nbsp;&nbsp;[팀 프로젝트]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; <span>- 초대장 서비스 프로젝트  </span><br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2024.12.∼ 2025.02. <br>
