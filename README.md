@@ -36,6 +36,13 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://github.com/seonghuncode/sbb2" rel="nofollow">https://github.com/seonghuncode/sbb2</a>
 <br>  
 -->
+&nbsp;&nbsp;[팀 프로젝트]<br>
+&nbsp;&nbsp;&nbsp;&nbsp; <span>- Z세대만의 특별한 성장 커뮤니티 구축  </span><br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2025.07.∼ 2025.12. <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기관 : 테크포임팩트x모두의 연구소 <br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 링크 : <a href="https://techforimpact.io/" rel="nofollow">https://techforimpact.io/</a>
+<br>  
+  
 &nbsp;&nbsp;[프로젝트]<br>
 &nbsp;&nbsp;&nbsp;&nbsp; <span>- AI/LLM 서비스 개발 과정  </span><br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 기간 : 2025.05.∼ 2025.07. <br>
